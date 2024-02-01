@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Hoang Phong </h1>
+<h1 align="center">Hi, I'm Hoang Phong </h1>
+
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam </h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=500&lines=✍+Study+in:+Posts+and+Telecommunications+Institute+of+Technology+(PTIT)" alt="Typing SVG"/>
+  <img src="https://i.gyazo.com/ad27bc12ca81e862ceb35328122757ee.png" width="50" height="50"/>
 </p>
-- ✍ I'm a student of: Posts and Telecommunications Institute of Technology (PTIT)
-<br />
 
 ## 📫 How to reach me:
 
