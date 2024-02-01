@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam </h3>
 </p>
-- ✍ I'm a student of: [Posts and Telecommunications Institute of Technology](https://portal.ptit.edu.vn/) (PTIT)
+- ✍ I'm a student of: Posts and Telecommunications Institute of Technology (PTIT)
 <br />
 
 ## 📫 How to reach me:
