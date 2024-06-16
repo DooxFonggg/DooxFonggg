@@ -1,12 +1,19 @@
 
-<h1 align="center">Hi, I'm Hoang Phong </h1>
+<p align="center" > <img src="https://i.gyazo.com/ad27bc12ca81e862ceb35328122757ee.png" width="50" height="50"/> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoang+Phong!;" />
+</h1>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=500&lines=✍+Study+in:+Posts+and+Telecommunications+Institute+of+Technology+(PTIT)" alt="Typing SVG"/>
-  <img src="https://i.gyazo.com/ad27bc12ca81e862ceb35328122757ee.png" width="50" height="50"/>
-</p>
+<h3 align="center">I'm a Mobile Developer</h3>
+<br/>
+<div align="center">
 
-## 📫 How to reach me:
+ 🌍 I'm based in Vietnamese 
+ 
+ 🔭 I aspire to become a mobile developer.
+ 
+ </div>
+<h2 align="center">📫 How to reach me</h2>
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -27,9 +34,22 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+</p>
 
-## Activities:
-  <tr>
+<br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+  
    <td>
      <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DooxFonggg&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -40,3 +60,7 @@
    </td>
   </tr>
 
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
