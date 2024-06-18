@@ -1,5 +1,4 @@
-
-<p align="center" > <img src="https://i.gyazo.com/ad27bc12ca81e862ceb35328122757ee.png" width="50" height="50"/> </p>
+<p align="center" > <img src="https://i.gyazo.com/ad27bc12ca81e862ceb35328122757ee.png" width="100" height="100"/> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoang+Phong!;" />
 </h1>
