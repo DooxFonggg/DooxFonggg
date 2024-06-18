@@ -1,4 +1,4 @@
-<p align="center" > <img src="https://media1.tenor.com/m/HnKMx6PpUIoAAAAd/yuta-okkotsu-yuta.gif" style="width: 500px; height: auto;" /> </p>
+<p align="center" > <img src="https://media1.tenor.com/m/HnKMx6PpUIoAAAAd/yuta-okkotsu-yuta.gif" style="width: 400px; height: auto;" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoang+Phong!;" />
 </h1>
