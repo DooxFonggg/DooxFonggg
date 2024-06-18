@@ -1,4 +1,4 @@
-<p align="center" > <img src="https://i.gyazo.com/ad27bc12ca81e862ceb35328122757ee.png" width="100" height="100"/> </p>
+<p align="center" > <img src="https://media1.tenor.com/m/HnKMx6PpUIoAAAAd/yuta-okkotsu-yuta.gif" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoang+Phong!;" />
 </h1>
@@ -6,12 +6,14 @@
 <h3 align="center">I'm a Mobile Developer</h3>
 <br/>
 <div align="center">
-
  🌍 I'm based in Vietnamese 
- 
+
  🔭 I aspire to become a mobile developer.
  
  </div>
+ <p align="center">
+      <img src="https://media1.tenor.com/m/BWRk6rZW-9sAAAAd/yuuta.gif" style="width: 200px; height: auto;" />
+    </p>
 <h2 align="center">📫 How to reach me</h2>
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
